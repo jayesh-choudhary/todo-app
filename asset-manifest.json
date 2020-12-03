@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-app/static/css/main.bbe6ae83.chunk.css",
+    "main.js": "/todo-app/static/js/main.def2469a.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.def2469a.chunk.js.map",
+    "runtime-main.js": "/todo-app/static/js/runtime-main.01457084.js",
+    "runtime-main.js.map": "/todo-app/static/js/runtime-main.01457084.js.map",
+    "static/js/2.b2a5b2eb.chunk.js": "/todo-app/static/js/2.b2a5b2eb.chunk.js",
+    "static/js/2.b2a5b2eb.chunk.js.map": "/todo-app/static/js/2.b2a5b2eb.chunk.js.map",
+    "static/js/3.3e7868f5.chunk.js": "/todo-app/static/js/3.3e7868f5.chunk.js",
+    "static/js/3.3e7868f5.chunk.js.map": "/todo-app/static/js/3.3e7868f5.chunk.js.map",
+    "index.html": "/todo-app/index.html",
+    "static/css/main.bbe6ae83.chunk.css.map": "/todo-app/static/css/main.bbe6ae83.chunk.css.map",
+    "static/js/2.b2a5b2eb.chunk.js.LICENSE.txt": "/todo-app/static/js/2.b2a5b2eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01457084.js",
+    "static/js/2.b2a5b2eb.chunk.js",
+    "static/css/main.bbe6ae83.chunk.css",
+    "static/js/main.def2469a.chunk.js"
+  ]
+}
