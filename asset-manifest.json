@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.bbe6ae83.chunk.css",
-    "main.js": "/todo-app/static/js/main.def2469a.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.def2469a.chunk.js.map",
-    "runtime-main.js": "/todo-app/static/js/runtime-main.01457084.js",
-    "runtime-main.js.map": "/todo-app/static/js/runtime-main.01457084.js.map",
-    "static/js/2.b2a5b2eb.chunk.js": "/todo-app/static/js/2.b2a5b2eb.chunk.js",
-    "static/js/2.b2a5b2eb.chunk.js.map": "/todo-app/static/js/2.b2a5b2eb.chunk.js.map",
-    "static/js/3.3e7868f5.chunk.js": "/todo-app/static/js/3.3e7868f5.chunk.js",
-    "static/js/3.3e7868f5.chunk.js.map": "/todo-app/static/js/3.3e7868f5.chunk.js.map",
+    "main.css": "/todo-app/static/css/main.2b512a78.chunk.css",
+    "main.js": "/todo-app/static/js/main.46fcc2d7.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.46fcc2d7.chunk.js.map",
+    "runtime-main.js": "/todo-app/static/js/runtime-main.cb39621d.js",
+    "runtime-main.js.map": "/todo-app/static/js/runtime-main.cb39621d.js.map",
+    "static/css/2.6f39ffa3.chunk.css": "/todo-app/static/css/2.6f39ffa3.chunk.css",
+    "static/js/2.587c8b9c.chunk.js": "/todo-app/static/js/2.587c8b9c.chunk.js",
+    "static/js/2.587c8b9c.chunk.js.map": "/todo-app/static/js/2.587c8b9c.chunk.js.map",
+    "static/js/3.c4cc8e5f.chunk.js": "/todo-app/static/js/3.c4cc8e5f.chunk.js",
+    "static/js/3.c4cc8e5f.chunk.js.map": "/todo-app/static/js/3.c4cc8e5f.chunk.js.map",
     "index.html": "/todo-app/index.html",
-    "static/css/main.bbe6ae83.chunk.css.map": "/todo-app/static/css/main.bbe6ae83.chunk.css.map",
-    "static/js/2.b2a5b2eb.chunk.js.LICENSE.txt": "/todo-app/static/js/2.b2a5b2eb.chunk.js.LICENSE.txt"
+    "static/css/2.6f39ffa3.chunk.css.map": "/todo-app/static/css/2.6f39ffa3.chunk.css.map",
+    "static/css/main.2b512a78.chunk.css.map": "/todo-app/static/css/main.2b512a78.chunk.css.map",
+    "static/js/2.587c8b9c.chunk.js.LICENSE.txt": "/todo-app/static/js/2.587c8b9c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/todo-app/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.01457084.js",
-    "static/js/2.b2a5b2eb.chunk.js",
-    "static/css/main.bbe6ae83.chunk.css",
-    "static/js/main.def2469a.chunk.js"
+    "static/js/runtime-main.cb39621d.js",
+    "static/css/2.6f39ffa3.chunk.css",
+    "static/js/2.587c8b9c.chunk.js",
+    "static/css/main.2b512a78.chunk.css",
+    "static/js/main.46fcc2d7.chunk.js"
   ]
 }
